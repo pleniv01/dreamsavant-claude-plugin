@@ -1,0 +1,24 @@
+{
+  "name": "dreamsavant",
+  "displayName": "DreamSavant",
+  "version": "0.1.1",
+  "description": "Explore dreams, compare interpretive lenses, and prepare a reflection for DreamSavant.",
+  "author": {
+    "name": "DreamSavant",
+    "url": "https://dreamsavant.com"
+  },
+  "homepage": "https://dreamsavant.com/claude/",
+  "keywords": [
+    "dreams",
+    "dream-journal",
+    "dream-interpretation",
+    "reflection"
+  ],
+  "repository": "https://github.com/pleniv01/dreamsavant-claude-plugin",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://github.com/pleniv01/dreamsavant-claude-plugin/blob/main/PRIVACY.md",
+  "supportUrl": "https://dreamsavant.com/claude/",
+  "documentationUrl": "https://dreamsavant.com/claude/",
+  "termsOfServiceUrl": "https://dreamsavant.com/terms",
+  "icon": ".claude-plugin/icon.png"
+}
